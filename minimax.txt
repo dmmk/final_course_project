@@ -1,0 +1,1 @@
+['Addis Ababa', [ 'Ambo', ['Gedo',('Shambu',4),('Fincha',5)],['Nekemte',('Gimbi',8),('Limu',8)]], [ 'Buta Jirra', ['Worabe',('Hosana',6),('Durame',5)],['Wolkite',('Benchi Naji',5),('Tepi',6)]] ,[ 'Adama', ['Dire Dawa',('Chiro',6),('Harar',10)],['Mojo',('Dilla',9),('Kaffa',7)]]]
